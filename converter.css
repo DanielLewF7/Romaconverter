@@ -1,0 +1,60 @@
+.content {
+    width: 80%;
+    margin: auto;
+    height: 1800px;
+    background-color: #ABAEB3;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.container {
+    width: 100%;
+    margin: 100px auto 50px auto;
+}
+#newdez {
+    width: 20%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+.romsub {
+    background-color: #edece8;
+    border: none;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.romsub:hover {
+    cursor: pointer;
+    background-color:  #8ac5c3;
+    transition: linear 0.2s;
+}
+#rom {
+    width: 20%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+.row {
+    margin-left: -9px;
+    margin-right: -9px;
+}
+.NewQ {
+    text-align: center;
+    border: 1px solid black;
+    height: 350px;
+    border-radius: 10px;
+    background-color: #8ac5c3;
+    color: black;
+    margin: 50px;
+}
+.NewQ:hover {
+    background-color: #0C7489;
+    transition: linear 0.2s;
+}
